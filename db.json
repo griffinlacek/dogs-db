@@ -1,0 +1,7 @@
+{ 
+  "dogs": [ 
+    {"name": "hank", "age": "2", "breed": "Yorkie", "color": "Brown"},
+    {"name": "griffin", "age": "10", "breed": "Great Dane", "color": "Yellow"},
+    {"name": "winx", "age": "8", "breed": "Border Collie", "color": "Grey"}
+  ]
+}
